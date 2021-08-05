@@ -9,10 +9,10 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
 
+## How to install packages and dependencies
+- Write in the terminal "npm install"
+
 ## How to run the server
 - write in the terminal "npm start" and open it on the browser at "localhost:5050"
 
-# ---------------------------------------------------------------------
 
-## Create API Credentials
-create an API Key from openweathermap.org website
